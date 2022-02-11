@@ -2,7 +2,7 @@
 
 ## Overview
 
-Within this analysis, there is code segregated into seperate folders which exeucte the following:
+Within this analysis, there is code segregated into separate folders which execute the following:
 
 **Weather_Database Folder**
 1. Generates a set of 2,000 random latitudes and longitudes.  
